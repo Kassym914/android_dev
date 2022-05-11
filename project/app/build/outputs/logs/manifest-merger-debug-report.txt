@@ -1,0 +1,426 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:36:13-47
+	android:authorities
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:33:13-62
+manifest
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de440ff622045b621c0e2a75675cb568\navigation-ui-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c5472c019f43af1c3d0b5d06113256f5\jetified-navigation-ui-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b3c970aca904ae2d480d925a6ea32492\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\655427ab580ff05d7dc84e2029110b65\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c68da5a4ebfb0a949baa0d2f2b1faa09\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e527d36b86fbc520b118b48855e1a973\navigation-fragment-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f1c0f1a62c6bf12a9e8161db3f74b949\fragment-ktx-1.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2c158ecad22efe4fca44c66d6f3a7956\navigation-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\348742b79e648ea8efe671547d6e3933\activity-ktx-1.1.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.abdularis:circularimageview:1.4] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bcc09ab27a95fe015dea94c0c54384e8\jetified-circularimageview-1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\398eaf21fa546cde3875ce3406500504\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4a4a418f6844d6155e39c35f8a9bcef1\stetho-okhttp3-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.room:room-ktx:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\62e176a5ca2688cbcfd54c51160e9f91\room-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ec53a8df1748c2d678848c135d880e42\lifecycle-viewmodel-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\40a0a8041d13c0a0a6c04ffab71b8e54\lifecycle-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b9bfbc6cf7809c297d1eeba6c2edb935\jetified-stetho-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\153c512dcdd47997aaed5784bd444bbb\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b58644478221a0ad91d754b3ff886693\koin-android-2.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3a7fda55a6867839be6bb7e43cd6b3f8\play-services-places-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\11bdee489c576547fb0c5485a5ffbdbc\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\140b83b2bff6ad425d5030661a5ee409\navigation-common-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6062c5372307b6aa1eb29d5d77c08d73\lifecycle-livedata-core-ktx-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf867d946d1dc0a67c47fecab8eff395\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\904290550ddf0c5caa794d4eb2af893e\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c996782c83b816692556db93e890581e\navigation-fragment-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\dab7acec0e469cd3fd96b2db5deb4434\fragment-1.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\38aacc94aa3eb70c55c6bed8b2837b9e\navigation-runtime-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b5843ad72dd4369d46128192af1769c2\navigation-common-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5a3f4c081bafa2ee39b65f60e9a99eb2\activity-1.1.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c569e208f23decd81ca921794b23029\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\42e0377640554e996348ac7f86d3a8bd\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c2e8769898041515e4365b3669746852\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2aaa03d84807914e7929c8a510d3aaed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4219be22784f30400352ea8c474eb7ad\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\eb1fa1e21b3657999fc918fab7a2f87e\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf3a59fae571f196b3d2dae8806ef573\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\92e7b3508b0d7cf43431ab613044d91e\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\863a76887a134926af081a5343d18589\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:11:5-41:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b3c970aca904ae2d480d925a6ea32492\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b3c970aca904ae2d480d925a6ea32492\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\655427ab580ff05d7dc84e2029110b65\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\655427ab580ff05d7dc84e2029110b65\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c68da5a4ebfb0a949baa0d2f2b1faa09\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c68da5a4ebfb0a949baa0d2f2b1faa09\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\398eaf21fa546cde3875ce3406500504\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\398eaf21fa546cde3875ce3406500504\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4a4a418f6844d6155e39c35f8a9bcef1\stetho-okhttp3-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4a4a418f6844d6155e39c35f8a9bcef1\stetho-okhttp3-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b9bfbc6cf7809c297d1eeba6c2edb935\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b9bfbc6cf7809c297d1eeba6c2edb935\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\153c512dcdd47997aaed5784bd444bbb\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\153c512dcdd47997aaed5784bd444bbb\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3a7fda55a6867839be6bb7e43cd6b3f8\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3a7fda55a6867839be6bb7e43cd6b3f8\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\11bdee489c576547fb0c5485a5ffbdbc\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\11bdee489c576547fb0c5485a5ffbdbc\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\904290550ddf0c5caa794d4eb2af893e\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\904290550ddf0c5caa794d4eb2af893e\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:19:9-52
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:12:9-33
+activity#com.example.moviedbapi.main.map.Map2
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.moviedbapi.main.authorization.AuthorizationActivity
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:21:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.moviedbapi.main.MainActivity
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:29:19-52
+uses-sdk
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de440ff622045b621c0e2a75675cb568\navigation-ui-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de440ff622045b621c0e2a75675cb568\navigation-ui-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c5472c019f43af1c3d0b5d06113256f5\jetified-navigation-ui-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c5472c019f43af1c3d0b5d06113256f5\jetified-navigation-ui-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b3c970aca904ae2d480d925a6ea32492\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b3c970aca904ae2d480d925a6ea32492\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\655427ab580ff05d7dc84e2029110b65\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\655427ab580ff05d7dc84e2029110b65\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c68da5a4ebfb0a949baa0d2f2b1faa09\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c68da5a4ebfb0a949baa0d2f2b1faa09\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e527d36b86fbc520b118b48855e1a973\navigation-fragment-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e527d36b86fbc520b118b48855e1a973\navigation-fragment-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f1c0f1a62c6bf12a9e8161db3f74b949\fragment-ktx-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f1c0f1a62c6bf12a9e8161db3f74b949\fragment-ktx-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2c158ecad22efe4fca44c66d6f3a7956\navigation-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2c158ecad22efe4fca44c66d6f3a7956\navigation-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\348742b79e648ea8efe671547d6e3933\activity-ktx-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\348742b79e648ea8efe671547d6e3933\activity-ktx-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.abdularis:circularimageview:1.4] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bcc09ab27a95fe015dea94c0c54384e8\jetified-circularimageview-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.abdularis:circularimageview:1.4] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bcc09ab27a95fe015dea94c0c54384e8\jetified-circularimageview-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\398eaf21fa546cde3875ce3406500504\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\398eaf21fa546cde3875ce3406500504\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4a4a418f6844d6155e39c35f8a9bcef1\stetho-okhttp3-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4a4a418f6844d6155e39c35f8a9bcef1\stetho-okhttp3-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.room:room-ktx:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\62e176a5ca2688cbcfd54c51160e9f91\room-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\62e176a5ca2688cbcfd54c51160e9f91\room-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ec53a8df1748c2d678848c135d880e42\lifecycle-viewmodel-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ec53a8df1748c2d678848c135d880e42\lifecycle-viewmodel-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\40a0a8041d13c0a0a6c04ffab71b8e54\lifecycle-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\40a0a8041d13c0a0a6c04ffab71b8e54\lifecycle-runtime-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b9bfbc6cf7809c297d1eeba6c2edb935\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b9bfbc6cf7809c297d1eeba6c2edb935\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\153c512dcdd47997aaed5784bd444bbb\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\153c512dcdd47997aaed5784bd444bbb\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b58644478221a0ad91d754b3ff886693\koin-android-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b58644478221a0ad91d754b3ff886693\koin-android-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3a7fda55a6867839be6bb7e43cd6b3f8\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3a7fda55a6867839be6bb7e43cd6b3f8\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\11bdee489c576547fb0c5485a5ffbdbc\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\11bdee489c576547fb0c5485a5ffbdbc\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\140b83b2bff6ad425d5030661a5ee409\navigation-common-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\140b83b2bff6ad425d5030661a5ee409\navigation-common-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6062c5372307b6aa1eb29d5d77c08d73\lifecycle-livedata-core-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6062c5372307b6aa1eb29d5d77c08d73\lifecycle-livedata-core-ktx-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf867d946d1dc0a67c47fecab8eff395\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf867d946d1dc0a67c47fecab8eff395\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\904290550ddf0c5caa794d4eb2af893e\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\904290550ddf0c5caa794d4eb2af893e\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c996782c83b816692556db93e890581e\navigation-fragment-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c996782c83b816692556db93e890581e\navigation-fragment-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\dab7acec0e469cd3fd96b2db5deb4434\fragment-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\dab7acec0e469cd3fd96b2db5deb4434\fragment-1.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\38aacc94aa3eb70c55c6bed8b2837b9e\navigation-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\38aacc94aa3eb70c55c6bed8b2837b9e\navigation-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b5843ad72dd4369d46128192af1769c2\navigation-common-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\b5843ad72dd4369d46128192af1769c2\navigation-common-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5a3f4c081bafa2ee39b65f60e9a99eb2\activity-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5a3f4c081bafa2ee39b65f60e9a99eb2\activity-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c569e208f23decd81ca921794b23029\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3c569e208f23decd81ca921794b23029\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\42e0377640554e996348ac7f86d3a8bd\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\42e0377640554e996348ac7f86d3a8bd\lifecycle-viewmodel-savedstate-1.0.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c2e8769898041515e4365b3669746852\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c2e8769898041515e4365b3669746852\lifecycle-livedata-core-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2aaa03d84807914e7929c8a510d3aaed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\2aaa03d84807914e7929c8a510d3aaed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4219be22784f30400352ea8c474eb7ad\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\4219be22784f30400352ea8c474eb7ad\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\eb1fa1e21b3657999fc918fab7a2f87e\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\eb1fa1e21b3657999fc918fab7a2f87e\lifecycle-runtime-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf3a59fae571f196b3d2dae8806ef573\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\bf3a59fae571f196b3d2dae8806ef573\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\92e7b3508b0d7cf43431ab613044d91e\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\92e7b3508b0d7cf43431ab613044d91e\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\863a76887a134926af081a5343d18589\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\863a76887a134926af081a5343d18589\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from C:\Users\Kassym\Desktop\AndroidDevelopment\project2\app\src\main\AndroidManifest.xml:38:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.2] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\0051f28377355d7655cd9be86066dec9\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\07144c758efdffa079de2d1f7a1a51ad\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Kassym\.gradle\caches\transforms-2\files-2.1\c1ab97c2b216f99d5a9decc9b5126dcd\lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
